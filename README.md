@@ -1,5 +1,4 @@
-# 🏦 Bank Customer Churn Prediction
-
+🏦 Bank Customer Churn Prediction
 A machine learning project that predicts whether a bank customer is likely to **churn (leave)** or **stay**, using customer demographic, financial, and account-related data.
 
 The project follows an end-to-end **Data Science & Machine Learning pipeline**, including data exploration, preprocessing, feature engineering, handling class imbalance, model training, evaluation, and an interactive prediction application built with **Gradio**.
